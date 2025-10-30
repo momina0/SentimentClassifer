@@ -1,10 +1,11 @@
 Sentiment Classifier 🎭
 
 A deep learning–based sentiment analysis model that classifies  text into Positive, Negative, or Neutral sentiments.
+
 📋 Overview
 
 This Sentiment Classifier analyzes social media posts, reviews, or comments and predicts their sentiment polarity.
-The model has been trained and evaluated on a labeled U dataset containing diverse expressions, slang, and social text patterns.
+The model has been trained and evaluated on a labeled  dataset containing diverse expressions, slang, and social text patterns.
 
 ✨ Features
 
